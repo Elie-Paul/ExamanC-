@@ -1,0 +1,12 @@
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\ExamenCshapService.dll.config
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\ExamenCshapService.dll
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\ExamenCshapService.pdb
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\EntityFramework.dll
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\EntityFramework.xml
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\obj\Debug\ExamenCshapService.csprojAssemblyReference.cache
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\obj\Debug\ExamenCshapService.csproj.CoreCompileInputs.cache
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\obj\Debug\ExamenCshapService.csproj.CopyComplete
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\obj\Debug\ExamenCshapService.dll
+C:\Users\Elie\source\repos\ExamenCshapService\ExamenCshapService\obj\Debug\ExamenCshapService.pdb

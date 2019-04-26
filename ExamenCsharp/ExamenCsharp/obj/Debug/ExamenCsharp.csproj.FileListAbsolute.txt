@@ -1,0 +1,15 @@
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\bin\Debug\ExamenCsharp.exe.config
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\bin\Debug\ExamenCsharp.exe
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\bin\Debug\ExamenCsharp.pdb
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\MainWindow.g.cs
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\App.g.cs
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp_MarkupCompile.cache
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp_MarkupCompile.lref
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\MainWindow.baml
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.g.resources
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.Properties.Resources.resources
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.csproj.GenerateResource.cache
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.exe
+C:\Users\Elie\source\repos\ExamenCsharp\ExamenCsharp\obj\Debug\ExamenCsharp.pdb

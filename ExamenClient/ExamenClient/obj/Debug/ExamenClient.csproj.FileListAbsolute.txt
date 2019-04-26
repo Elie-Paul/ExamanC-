@@ -1,0 +1,15 @@
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\bin\Debug\ExamenClient.exe.config
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\bin\Debug\ExamenClient.exe
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\bin\Debug\ExamenClient.pdb
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.csprojAssemblyReference.cache
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\MainWindow.g.cs
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\App.g.cs
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient_MarkupCompile.cache
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient_MarkupCompile.lref
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\MainWindow.baml
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.g.resources
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.Properties.Resources.resources
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.csproj.GenerateResource.cache
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.csproj.CoreCompileInputs.cache
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.exe
+C:\Users\Elie\source\repos\ExamenClient\ExamenClient\obj\Debug\ExamenClient.pdb

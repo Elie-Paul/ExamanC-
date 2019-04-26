@@ -1,0 +1,23 @@
+﻿<Window x:Class="ExamenCsharp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenCsharp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="800">
+    <Grid>
+        <Label Content="Departement" HorizontalAlignment="Left" Margin="96,24,0,0" VerticalAlignment="Top" Height="46" Width="160" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Filiere" HorizontalAlignment="Left" Margin="96,108,0,0" VerticalAlignment="Top" Height="46" Width="160" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Libelle" HorizontalAlignment="Left" Margin="96,196,0,0" VerticalAlignment="Top" Height="46" Width="160" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Montant inscription" HorizontalAlignment="Left" Margin="96,288,0,0" VerticalAlignment="Top" Height="48" Width="219" FontSize="22" FontWeight="Bold"/>
+        <Label Content="Mensualite" HorizontalAlignment="Left" Margin="96,378,0,0" VerticalAlignment="Top" Height="46" Width="160" FontSize="22" FontWeight="Bold"/>
+        <Button Content="Enregistrer" HorizontalAlignment="Left" Margin="281,482,0,0" VerticalAlignment="Top" Width="190" Height="55" FontSize="22" FontWeight="Bold" Click="Button_Click"/>
+        <ComboBox x:Name="deptCombo" HorizontalAlignment="Left" Margin="415,24,0,0" VerticalAlignment="Top" Width="165" Height="46" FontSize="20" FontStyle="Italic" SelectionChanged="deptCombo_SelectionChanged"/>
+        <ComboBox x:Name="filCombo" HorizontalAlignment="Left" Margin="415,108,0,0" VerticalAlignment="Top" Width="165" Height="46" FontSize="20" FontStyle="Italic"/>
+        <TextBox x:Name="libelleCl" HorizontalAlignment="Left" Height="60" Margin="415,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" FontSize="20" FontStyle="Italic"/>
+        <TextBox x:Name="montant" HorizontalAlignment="Left" Height="60" Margin="415,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" FontSize="20" FontStyle="Italic"/>
+        <TextBox x:Name="mensualite" HorizontalAlignment="Left" Height="60" Margin="415,374,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="165" FontSize="20" FontStyle="Italic"/>
+
+    </Grid>
+</Window>
